@@ -1,0 +1,1329 @@
+.focus-outline-light:focus {
+    outline-color: var(--col-light);
+    outline-width: 5px;
+}
+
+.focus-outline-dark:focus {
+    outline-color: var(--col-dark);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-50:focus {
+    outline-color: var(--col-slate-50);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-100:focus {
+    outline-color: var(--col-slate-100);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-200:focus {
+    outline-color: var(--col-slate-200);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-300:focus {
+    outline-color: var(--col-slate-300);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-400:focus {
+    outline-color: var(--col-slate-400);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-500:focus {
+    outline-color: var(--col-slate-500);
+    outline-width: 5px;
+}
+
+.focus-outline-slate:focus {
+    outline-color: var(--col-slate-500);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-600:focus {
+    outline-color: var(--col-slate-600);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-700:focus {
+    outline-color: var(--col-slate-700);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-800:focus {
+    outline-color: var(--col-slate-800);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-900:focus {
+    outline-color: var(--col-slate-900);
+    outline-width: 5px;
+}
+
+.focus-outline-slate-950:focus {
+    outline-color: var(--col-slate-950);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-50:focus {
+    outline-color: var(--col-gray-50);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-100:focus {
+    outline-color: var(--col-gray-100);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-200:focus {
+    outline-color: var(--col-gray-200);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-300:focus {
+    outline-color: var(--col-gray-300);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-400:focus {
+    outline-color: var(--col-gray-400);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-500:focus {
+    outline-color: var(--col-gray-500);
+    outline-width: 5px;
+}
+
+.focus-outline-gray:focus {
+    outline-color: var(--col-gray-500);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-600:focus {
+    outline-color: var(--col-gray-600);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-700:focus {
+    outline-color: var(--col-gray-700);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-800:focus {
+    outline-color: var(--col-gray-800);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-900:focus {
+    outline-color: var(--col-gray-900);
+    outline-width: 5px;
+}
+
+.focus-outline-gray-950:focus {
+    outline-color: var(--col-gray-950);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-50:focus {
+    outline-color: var(--col-zinc-50);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-100:focus {
+    outline-color: var(--col-zinc-100);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-200:focus {
+    outline-color: var(--col-zinc-200);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-300:focus {
+    outline-color: var(--col-zinc-300);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-400:focus {
+    outline-color: var(--col-zinc-400);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-500:focus {
+    outline-color: var(--col-zinc-500);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc:focus {
+    outline-color: var(--col-zinc-500);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-600:focus {
+    outline-color: var(--col-zinc-600);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-700:focus {
+    outline-color: var(--col-zinc-700);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-800:focus {
+    outline-color: var(--col-zinc-800);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-900:focus {
+    outline-color: var(--col-zinc-900);
+    outline-width: 5px;
+}
+
+.focus-outline-zinc-950:focus {
+    outline-color: var(--col-zinc-950);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-50:focus {
+    outline-color: var(--col-neutral-50);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-100:focus {
+    outline-color: var(--col-neutral-100);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-200:focus {
+    outline-color: var(--col-neutral-200);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-300:focus {
+    outline-color: var(--col-neutral-300);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-400:focus {
+    outline-color: var(--col-neutral-400);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-500:focus {
+    outline-color: var(--col-neutral-500);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral:focus {
+    outline-color: var(--col-neutral-500);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-600:focus {
+    outline-color: var(--col-neutral-600);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-700:focus {
+    outline-color: var(--col-neutral-700);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-800:focus {
+    outline-color: var(--col-neutral-800);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-900:focus {
+    outline-color: var(--col-neutral-900);
+    outline-width: 5px;
+}
+
+.focus-outline-neutral-950:focus {
+    outline-color: var(--col-neutral-950);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-50:focus {
+    outline-color: var(--col-stone-50);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-100:focus {
+    outline-color: var(--col-stone-100);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-200:focus {
+    outline-color: var(--col-stone-200);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-300:focus {
+    outline-color: var(--col-stone-300);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-400:focus {
+    outline-color: var(--col-stone-400);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-500:focus {
+    outline-color: var(--col-stone-500);
+    outline-width: 5px;
+}
+
+.focus-outline-stone:focus {
+    outline-color: var(--col-stone-500);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-600:focus {
+    outline-color: var(--col-stone-600);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-700:focus {
+    outline-color: var(--col-stone-700);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-800:focus {
+    outline-color: var(--col-stone-800);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-900:focus {
+    outline-color: var(--col-stone-900);
+    outline-width: 5px;
+}
+
+.focus-outline-stone-950:focus {
+    outline-color: var(--col-stone-950);
+    outline-width: 5px;
+}
+
+.focus-outline-red-50:focus {
+    outline-color: var(--col-red-50);
+    outline-width: 5px;
+}
+
+.focus-outline-red-100:focus {
+    outline-color: var(--col-red-100);
+    outline-width: 5px;
+}
+
+.focus-outline-red-200:focus {
+    outline-color: var(--col-red-200);
+    outline-width: 5px;
+}
+
+.focus-outline-red-300:focus {
+    outline-color: var(--col-red-300);
+    outline-width: 5px;
+}
+
+.focus-outline-red-400:focus {
+    outline-color: var(--col-red-400);
+    outline-width: 5px;
+}
+
+.focus-outline-red-500:focus {
+    outline-color: var(--col-red-500);
+    outline-width: 5px;
+}
+
+.focus-outline-red:focus {
+    outline-color: var(--col-red-500);
+    outline-width: 5px;
+}
+
+.focus-outline-red-600:focus {
+    outline-color: var(--col-red-600);
+    outline-width: 5px;
+}
+
+.focus-outline-red-700:focus {
+    outline-color: var(--col-red-700);
+    outline-width: 5px;
+}
+
+.focus-outline-red-800:focus {
+    outline-color: var(--col-red-800);
+    outline-width: 5px;
+}
+
+.focus-outline-red-900:focus {
+    outline-color: var(--col-red-900);
+    outline-width: 5px;
+}
+
+.focus-outline-red-950:focus {
+    outline-color: var(--col-red-950);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-50:focus {
+    outline-color: var(--col-orange-50);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-100:focus {
+    outline-color: var(--col-orange-100);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-200:focus {
+    outline-color: var(--col-orange-200);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-300:focus {
+    outline-color: var(--col-orange-300);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-400:focus {
+    outline-color: var(--col-orange-400);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-500:focus {
+    outline-color: var(--col-orange-500);
+    outline-width: 5px;
+}
+
+.focus-outline-orange:focus {
+    outline-color: var(--col-orange-500);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-600:focus {
+    outline-color: var(--col-orange-600);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-700:focus {
+    outline-color: var(--col-orange-700);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-800:focus {
+    outline-color: var(--col-orange-800);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-900:focus {
+    outline-color: var(--col-orange-900);
+    outline-width: 5px;
+}
+
+.focus-outline-orange-950:focus {
+    outline-color: var(--col-orange-950);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-50:focus {
+    outline-color: var(--col-amber-50);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-100:focus {
+    outline-color: var(--col-amber-100);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-200:focus {
+    outline-color: var(--col-amber-200);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-300:focus {
+    outline-color: var(--col-amber-300);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-400:focus {
+    outline-color: var(--col-amber-400);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-500:focus {
+    outline-color: var(--col-amber-500);
+    outline-width: 5px;
+}
+
+.focus-outline-amber:focus {
+    outline-color: var(--col-amber-500);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-600:focus {
+    outline-color: var(--col-amber-600);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-700:focus {
+    outline-color: var(--col-amber-700);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-800:focus {
+    outline-color: var(--col-amber-800);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-900:focus {
+    outline-color: var(--col-amber-900);
+    outline-width: 5px;
+}
+
+.focus-outline-amber-950:focus {
+    outline-color: var(--col-amber-950);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-50:focus {
+    outline-color: var(--col-yellow-50);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-100:focus {
+    outline-color: var(--col-yellow-100);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-200:focus {
+    outline-color: var(--col-yellow-200);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-300:focus {
+    outline-color: var(--col-yellow-300);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-400:focus {
+    outline-color: var(--col-yellow-400);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-500:focus {
+    outline-color: var(--col-yellow-500);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow:focus {
+    outline-color: var(--col-yellow-400);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-600:focus {
+    outline-color: var(--col-yellow-600);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-700:focus {
+    outline-color: var(--col-yellow-700);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-800:focus {
+    outline-color: var(--col-yellow-800);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-900:focus {
+    outline-color: var(--col-yellow-900);
+    outline-width: 5px;
+}
+
+.focus-outline-yellow-950:focus {
+    outline-color: var(--col-yellow-950);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-50:focus {
+    outline-color: var(--col-lime-50);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-100:focus {
+    outline-color: var(--col-lime-100);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-200:focus {
+    outline-color: var(--col-lime-200);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-300:focus {
+    outline-color: var(--col-lime-300);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-400:focus {
+    outline-color: var(--col-lime-400);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-500:focus {
+    outline-color: var(--col-lime-500);
+    outline-width: 5px;
+}
+
+.focus-outline-lime:focus {
+    outline-color: var(--col-lime-400);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-600:focus {
+    outline-color: var(--col-lime-600);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-700:focus {
+    outline-color: var(--col-lime-700);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-800:focus {
+    outline-color: var(--col-lime-800);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-900:focus {
+    outline-color: var(--col-lime-900);
+    outline-width: 5px;
+}
+
+.focus-outline-lime-950:focus {
+    outline-color: var(--col-lime-950);
+    outline-width: 5px;
+}
+
+.focus-outline-green-50:focus {
+    outline-color: var(--col-green-50);
+    outline-width: 5px;
+}
+
+.focus-outline-green-100:focus {
+    outline-color: var(--col-green-100);
+    outline-width: 5px;
+}
+
+.focus-outline-green-200:focus {
+    outline-color: var(--col-green-200);
+    outline-width: 5px;
+}
+
+.focus-outline-green-300:focus {
+    outline-color: var(--col-green-300);
+    outline-width: 5px;
+}
+
+.focus-outline-green-400:focus {
+    outline-color: var(--col-green-400);
+    outline-width: 5px;
+}
+
+.focus-outline-green-500:focus {
+    outline-color: var(--col-green-500);
+    outline-width: 5px;
+}
+
+.focus-outline-green:focus {
+    outline-color: var(--col-green-500);
+    outline-width: 5px;
+}
+
+.focus-outline-green-600:focus {
+    outline-color: var(--col-green-600);
+    outline-width: 5px;
+}
+
+.focus-outline-green-700:focus {
+    outline-color: var(--col-green-700);
+    outline-width: 5px;
+}
+
+.focus-outline-green-800:focus {
+    outline-color: var(--col-green-800);
+    outline-width: 5px;
+}
+
+.focus-outline-green-900:focus {
+    outline-color: var(--col-green-900);
+    outline-width: 5px;
+}
+
+.focus-outline-green-950:focus {
+    outline-color: var(--col-green-950);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-50:focus {
+    outline-color: var(--col-emerald-50);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-100:focus {
+    outline-color: var(--col-emerald-100);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-200:focus {
+    outline-color: var(--col-emerald-200);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-300:focus {
+    outline-color: var(--col-emerald-300);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-400:focus {
+    outline-color: var(--col-emerald-400);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-500:focus {
+    outline-color: var(--col-emerald-500);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald:focus {
+    outline-color: var(--col-emerald-500);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-600:focus {
+    outline-color: var(--col-emerald-600);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-700:focus {
+    outline-color: var(--col-emerald-700);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-800:focus {
+    outline-color: var(--col-emerald-800);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-900:focus {
+    outline-color: var(--col-emerald-900);
+    outline-width: 5px;
+}
+
+.focus-outline-emerald-950:focus {
+    outline-color: var(--col-emerald-950);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-50:focus {
+    outline-color: var(--col-teal-50);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-100:focus {
+    outline-color: var(--col-teal-100);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-200:focus {
+    outline-color: var(--col-teal-200);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-300:focus {
+    outline-color: var(--col-teal-300);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-400:focus {
+    outline-color: var(--col-teal-400);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-500:focus {
+    outline-color: var(--col-teal-500);
+    outline-width: 5px;
+}
+
+.focus-outline-teal:focus {
+    outline-color: var(--col-teal-400);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-600:focus {
+    outline-color: var(--col-teal-600);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-700:focus {
+    outline-color: var(--col-teal-700);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-800:focus {
+    outline-color: var(--col-teal-800);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-900:focus {
+    outline-color: var(--col-teal-900);
+    outline-width: 5px;
+}
+
+.focus-outline-teal-950:focus {
+    outline-color: var(--col-teal-950);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-50:focus {
+    outline-color: var(--col-cyan-50);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-100:focus {
+    outline-color: var(--col-cyan-100);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-200:focus {
+    outline-color: var(--col-cyan-200);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-300:focus {
+    outline-color: var(--col-cyan-300);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-400:focus {
+    outline-color: var(--col-cyan-400);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-500:focus {
+    outline-color: var(--col-cyan-500);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan:focus {
+    outline-color: var(--col-cyan-400);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-600:focus {
+    outline-color: var(--col-cyan-600);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-700:focus {
+    outline-color: var(--col-cyan-700);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-800:focus {
+    outline-color: var(--col-cyan-800);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-900:focus {
+    outline-color: var(--col-cyan-900);
+    outline-width: 5px;
+}
+
+.focus-outline-cyan-950:focus {
+    outline-color: var(--col-cyan-950);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-50:focus {
+    outline-color: var(--col-sky-50);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-100:focus {
+    outline-color: var(--col-sky-100);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-200:focus {
+    outline-color: var(--col-sky-200);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-300:focus {
+    outline-color: var(--col-sky-300);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-400:focus {
+    outline-color: var(--col-sky-400);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-500:focus {
+    outline-color: var(--col-sky-500);
+    outline-width: 5px;
+}
+
+.focus-outline-sky:focus {
+    outline-color: var(--col-sky-400);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-600:focus {
+    outline-color: var(--col-sky-600);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-700:focus {
+    outline-color: var(--col-sky-700);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-800:focus {
+    outline-color: var(--col-sky-800);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-900:focus {
+    outline-color: var(--col-sky-900);
+    outline-width: 5px;
+}
+
+.focus-outline-sky-950:focus {
+    outline-color: var(--col-sky-950);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-50:focus {
+    outline-color: var(--col-blue-50);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-100:focus {
+    outline-color: var(--col-blue-100);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-200:focus {
+    outline-color: var(--col-blue-200);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-300:focus {
+    outline-color: var(--col-blue-300);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-400:focus {
+    outline-color: var(--col-blue-400);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-500:focus {
+    outline-color: var(--col-blue-500);
+    outline-width: 5px;
+}
+
+.focus-outline-blue:focus {
+    outline-color: var(--col-blue-400);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-600:focus {
+    outline-color: var(--col-blue-600);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-700:focus {
+    outline-color: var(--col-blue-700);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-800:focus {
+    outline-color: var(--col-blue-800);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-900:focus {
+    outline-color: var(--col-blue-900);
+    outline-width: 5px;
+}
+
+.focus-outline-blue-950:focus {
+    outline-color: var(--col-blue-950);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-50:focus {
+    outline-color: var(--col-indigo-50);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-100:focus {
+    outline-color: var(--col-indigo-100);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-200:focus {
+    outline-color: var(--col-indigo-200);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-300:focus {
+    outline-color: var(--col-indigo-300);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-400:focus {
+    outline-color: var(--col-indigo-400);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-500:focus {
+    outline-color: var(--col-indigo-500);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo:focus {
+    outline-color: var(--col-indigo-400);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-600:focus {
+    outline-color: var(--col-indigo-600);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-700:focus {
+    outline-color: var(--col-indigo-700);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-800:focus {
+    outline-color: var(--col-indigo-800);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-900:focus {
+    outline-color: var(--col-indigo-900);
+    outline-width: 5px;
+}
+
+.focus-outline-indigo-950:focus {
+    outline-color: var(--col-indigo-950);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-50:focus {
+    outline-color: var(--col-violet-50);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-100:focus {
+    outline-color: var(--col-violet-100);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-200:focus {
+    outline-color: var(--col-violet-200);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-300:focus {
+    outline-color: var(--col-violet-300);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-400:focus {
+    outline-color: var(--col-violet-400);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-500:focus {
+    outline-color: var(--col-violet-500);
+    outline-width: 5px;
+}
+
+.focus-outline-violet:focus {
+    outline-color: var(--col-violet-500);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-600:focus {
+    outline-color: var(--col-violet-600);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-700:focus {
+    outline-color: var(--col-violet-700);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-800:focus {
+    outline-color: var(--col-violet-800);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-900:focus {
+    outline-color: var(--col-violet-900);
+    outline-width: 5px;
+}
+
+.focus-outline-violet-950:focus {
+    outline-color: var(--col-violet-950);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-50:focus {
+    outline-color: var(--col-purple-50);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-100:focus {
+    outline-color: var(--col-purple-100);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-200:focus {
+    outline-color: var(--col-purple-200);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-300:focus {
+    outline-color: var(--col-purple-300);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-400:focus {
+    outline-color: var(--col-purple-400);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-500:focus {
+    outline-color: var(--col-purple-500);
+    outline-width: 5px;
+}
+
+.focus-outline-purple:focus {
+    outline-color: var(--col-purple-500);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-600:focus {
+    outline-color: var(--col-purple-600);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-700:focus {
+    outline-color: var(--col-purple-700);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-800:focus {
+    outline-color: var(--col-purple-800);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-900:focus {
+    outline-color: var(--col-purple-900);
+    outline-width: 5px;
+}
+
+.focus-outline-purple-950:focus {
+    outline-color: var(--col-purple-950);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-50:focus {
+    outline-color: var(--col-fuchsia-50);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-100:focus {
+    outline-color: var(--col-fuchsia-100);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-200:focus {
+    outline-color: var(--col-fuchsia-200);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-300:focus {
+    outline-color: var(--col-fuchsia-300);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-400:focus {
+    outline-color: var(--col-fuchsia-400);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-500:focus {
+    outline-color: var(--col-fuchsia-500);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia:focus {
+    outline-color: var(--col-fuchsia-500);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-600:focus {
+    outline-color: var(--col-fuchsia-600);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-700:focus {
+    outline-color: var(--col-fuchsia-700);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-800:focus {
+    outline-color: var(--col-fuchsia-800);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-900:focus {
+    outline-color: var(--col-fuchsia-900);
+    outline-width: 5px;
+}
+
+.focus-outline-fuchsia-950:focus {
+    outline-color: var(--col-fuchsia-950);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-50:focus {
+    outline-color: var(--col-pink-50);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-100:focus {
+    outline-color: var(--col-pink-100);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-200:focus {
+    outline-color: var(--col-pink-200);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-300:focus {
+    outline-color: var(--col-pink-300);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-400:focus {
+    outline-color: var(--col-pink-400);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-500:focus {
+    outline-color: var(--col-pink-500);
+    outline-width: 5px;
+}
+
+.focus-outline-pink:focus {
+    outline-color: var(--col-pink-500);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-600:focus {
+    outline-color: var(--col-pink-600);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-700:focus {
+    outline-color: var(--col-pink-700);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-800:focus {
+    outline-color: var(--col-pink-800);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-900:focus {
+    outline-color: var(--col-pink-900);
+    outline-width: 5px;
+}
+
+.focus-outline-pink-950:focus {
+    outline-color: var(--col-pink-950);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-50:focus {
+    outline-color: var(--col-rose-50);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-100:focus {
+    outline-color: var(--col-rose-100);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-200:focus {
+    outline-color: var(--col-rose-200);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-300:focus {
+    outline-color: var(--col-rose-300);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-400:focus {
+    outline-color: var(--col-rose-400);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-500:focus {
+    outline-color: var(--col-rose-500);
+    outline-width: 5px;
+}
+
+.focus-outline-rose:focus {
+    outline-color: var(--col-rose-500);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-600:focus {
+    outline-color: var(--col-rose-600);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-700:focus {
+    outline-color: var(--col-rose-700);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-800:focus {
+    outline-color: var(--col-rose-800);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-900:focus {
+    outline-color: var(--col-rose-900);
+    outline-width: 5px;
+}
+
+.focus-outline-rose-950:focus {
+    outline-color: var(--col-rose-950);
+    outline-width: 5px;
+}
